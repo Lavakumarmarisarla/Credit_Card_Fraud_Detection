@@ -174,8 +174,4 @@ def predict():
 # ================= LOGOUT =================
 # ================= RUN =================
 if __name__ == '__main__':
-    app.run(debug=True)
-
-# To run the app:
- #venv\Scripts\activate 
- #venv\Scripts\python app.py 
+    app.run()
