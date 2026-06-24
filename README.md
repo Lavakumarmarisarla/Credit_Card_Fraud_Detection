@@ -2,7 +2,6 @@ Credit Card Fraud Detection with Flask and Machine Learning
 ===========================================================
 
 
-> due to some problem in render, ML model may not work in Website but locally it works fine.
 
 Project Overview
 ----------------

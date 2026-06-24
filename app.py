@@ -171,7 +171,9 @@ def predict():
         error_img=error_img
     )
 
-# ================= LOGOUT =================
-# ================= RUN =================
+
 if __name__ == '__main__':
     app.run()
+
+
+
